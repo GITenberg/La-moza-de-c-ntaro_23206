@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '35558'
     url: http://www.gutenberg.org/2009/agents/35558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23206#La-moza-de-c-ntaro
 gutenberg_issued: '2007-10-26'
 gutenberg_type: Text
 identifiers:
